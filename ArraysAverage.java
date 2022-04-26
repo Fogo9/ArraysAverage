@@ -1,4 +1,5 @@
 public class ArraysAverage{
+    
     public static void main(String[] args) {
 
         int[] list = {55, 25, 40, 65, 70, 35};
