@@ -22,7 +22,6 @@ public class ArraysAverage{
 
             sum1 += (1.0 / i);
 
-
         }
 
         System.out.println("Harmonic Average : " + sum1);
