@@ -44,6 +44,7 @@
                 }
 
                 System.out.println("Average : " + sum / list.length);
+                
 
                 for(int i = 1; i <= list.length; i++){
 
