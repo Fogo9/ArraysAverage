@@ -54,7 +54,6 @@
 
                 System.out.println("Harmonic Average : " + sum1);
 
-
             }
         }
 
