@@ -13,7 +13,6 @@ public class ArraysAverage{
 
             sum += list[i];
 
-
         }
 
         System.out.println("Average : " + sum / list.length);
