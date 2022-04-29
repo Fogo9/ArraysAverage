@@ -1,14 +1,14 @@
 # **ARRAYS AVERAGE**
 
-# Information
+## INFORMATION
 
 * **Program that calculates the mean and harmonic mean of the elements in the array.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **int** and **double** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * Using the for loop, first the average of the numbers and then the average of the harmonic values ​​of the numbers were calculated.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -67,13 +65,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ArraysAverage.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
